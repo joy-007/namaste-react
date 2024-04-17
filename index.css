@@ -24,13 +24,20 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
-.searchBar{
-    padding: 15px;
-  }
+.filter{
+  padding: 10px;
+}  
+.filter-btn{
+    padding: 10px;
+    text-align: center;
+    text-overflow: ellipsis;
+    cursor: pointer;
+}
+
 
 .res-card {
    width: 200px;
-   height: 400px;
+   height: 420px;
    border: 1px solid black;
    padding: 4px;
    background-color: bisque;
